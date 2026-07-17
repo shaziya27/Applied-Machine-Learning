@@ -192,11 +192,11 @@ The project generates:
 
 Shaziya Banu
 
-Alfido Tech AI Internship
+INTERNSPARK AI Internship
 
 
 ## GitHub Repository
 
 Example:
 
-https://github.com/yourusername/TASK1-Classification
+https://github.com/shaziya27/Applied-Machine-Learning/tree/main/TASK1-Classification
