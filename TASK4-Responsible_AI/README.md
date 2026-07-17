@@ -208,7 +208,7 @@ The project generates:
 
 Shaziya Banu
 
-Alfido Tech AI/ML Internship
+INTERNSPARK AI Internship
 
 
 
