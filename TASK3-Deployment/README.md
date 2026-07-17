@@ -235,7 +235,7 @@ The project generates:
 
 Shaziya Banu
 
-Alfido Tech AI Internship
+INTERNSPARK AI Internship
 
 ## GitHub Repository
 
